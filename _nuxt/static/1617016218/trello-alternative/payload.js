@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/trello-alternative", {data:[{}],fetch:{},mutations:void 0});
