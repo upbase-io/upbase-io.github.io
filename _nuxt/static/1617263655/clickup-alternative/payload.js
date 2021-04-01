@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clickup-alternative", {data:[{}],fetch:{},mutations:void 0});

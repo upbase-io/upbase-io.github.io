@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/asana-alternative", {data:[{}],fetch:{},mutations:void 0});
